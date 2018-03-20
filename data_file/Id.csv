@@ -1,0 +1,101 @@
+﻿ENCARGADO;ID DE ASUNTO;ESTDO ACTUAL;Agencia;Título;Creado por;Creado;Asignado a;CategoríaSoporte;SubCategoría
+MERCEDES;4922;Documentado;NICUI;Quitar caracteres espciales a Tabla CONCEPTO;Hugo Tenorio;18/04/2016 14:07;Hugo Tenorio;Interfaces;Interna
+MERCEDES;4942;Documentado;NICUI;Creacion reporte Excelencia y algo mas;Hugo Tenorio;21/04/2016 13:16;Hugo Tenorio;Formato;Orden de Servicio
+MERCEDES;6970;Documentado;REQUE;DMS;Edgar M Lopez N;17/02/2017 11:20;Omar Morales V;Interfaces;Planta
+MERCEDES;7075;Documentado;REQUE;99999;Edgar M Lopez N;02/03/2017 13:39;Edgar M Lopez N;Interfaces;Interna
+MERCEDES;7090;Documentado;REQUE;GARANTIAS;Edgar M Lopez N;06/03/2017 13:29;Omar Morales V;Configuración;Otro
+MERCEDES;7095;Documentado;REQUE;Componentes nuevos;Edgar M Lopez N;06/03/2017 19:07;Omar Morales V;Implantación;Nuevo Desarrollo
+MERCEDES;7193;Documentado;REQUE;Centro Costo;Edgar M Lopez N;24/03/2017 10:53;Omar Morales V;Configuración;Movimientos
+MERCEDES;7274;Documentado;REQUE;lista precios refacciones;Edgar M Lopez N;06/04/2017 13:52;Omar Morales V;Configuración;Otro
+MERCEDES;7309;Documentado;REQUE;IMPORTES ESTADOS FINANCIEROS;Edgar M Lopez N;20/04/2017 9:13;Guadalupe Ortega;Formato;Reporte
+MERCEDES;3831;Documentar;REQUE;Nuevo Reporte Financiero Renault;Omar Morales V;15/12/2015 14:38;Arturo Candia;;
+MERCEDES;4813;Documentar;RH;Aumentar en Reporte Nomina Acumulada  el campo del  Puesto ;Victor Garcia;31/03/2016 17:44;Victor Garcia;Formato;Reporte
+MERCEDES;9023;Documentar;SUCUE;Alta de Agente para usuario de Refacciones;Joaquin Hernandez O;16/02/2018 14:20;Joaquin Hernandez O;Configuración;Otro
+MERCEDES;3610;Documentar;TOQUE;Error en Reporte Inventario de Vins al Corte;Georgina E Rocha O;07/11/2015 12:38;Georgina E Rocha O;;
+MERCEDES;5460;Documentar;TOQUE;Error al Cancelar Articulo ;Georgina E Rocha O;30/06/2016 19:17;Georgina E Rocha O;Errores Del Sistema;
+MERCEDES;5501;Documentar;TOQUE;Error al Afectar Factura Otros;Georgina E Rocha O;07/07/2016 18:33;Sergio Cordero;Errores Del Sistema;
+MERCEDES;6224;Documentar;TOQUE;ISAN Generado Erróneamente Hilux SR D/C ;Georgina E Rocha O;05/11/2016 10:04;Georgina E Rocha O;Errores Del Sistema;Operación
+MERCEDES;6758;Documentar;TOQUE;Tareas de Compresión de Respaldo de BD;Georgina E Rocha O;14/01/2017 13:53;Omar Morales V;Mantenimiento;
+MERCEDES;9021;Por Validar;SUCUE;Error en pedido de autos nuevos;Joaquin Hernandez O;16/02/2018 14:16;Joaquin Hernandez O;Errores Del Sistema;Operación
+MERCEDES;9011;Por Validar;VOVAL;error al crear el movimiento;Jorge A Hernandez H;15/02/2018 14:14;Jorge A Hernandez H;Errores Del Sistema;Operación
+MERCEDES;8736;Por Validar;NICUI;Interbloqueo mov Pago, Servigeisha.;Hugo Tenorio;17/01/2018 15:56;Mercedes Aguilar CH;Errores Del Sistema;Operación
+MERCEDES;9044;Por Validar;TOQUE;ERROR DE FACTURA SEMANAL DE GARANTÍAS;Jonathan Mateos A;19/02/2018 19:27;Mercedes Aguilar CH;Errores Del Sistema;Operación
+MERCEDES;8995;Por Validar;TOSAT;error en cuenta;Omar Valles;13/02/2018 12:14;Mercedes Aguilar CH;Errores Del Sistema;Operación
+MERCEDES;9013;Por Validar;VOVAL;error al afectar;Jorge A Hernandez H;15/02/2018 14:22;Mercedes Aguilar CH;Errores Del Sistema;Operación
+XO;8603;Documentado;TOQUE;error en xml, aduana;Jonathan Mateos A;28/12/2017 15:23;Omar Morales V;XML;Otro
+XO;8907;Por Validar;VOGRA;Codigo Bidimencional facturas Refacciones Seguros;Armando E Trejo O;03/02/2018 9:28;Asahel O Valencia P;Formato;Factura
+XO;8869;Documentar;VOGRA;Cancelacion Canc Forma 1863;Armando E Trejo O;30/01/2018 11:39;Armando E Trejo O;Configuración;Movimientos
+XO;9012;Documentar;VOVAL;error al generar intercambio;Jorge A Hernandez H;15/02/2018 14:18;Jorge A Hernandez H;Errores Del Sistema;Operación
+XO;4415;Por Validar;VOGRA;Solicitan considerar a Servialdyxa aqui (BD. G.Baz)  y tanto VW Granjas (Adyxa) como  VW Vallejo seran sucursales  WSNominas;Victor Garcia;22/02/2016 14:45;Victor Garcia;Configuración;Empresas
+ALFREDO;2737;Documentado;(Todas);Polizas de facturas servicio(forma 1863,cance factura, factura svc) con costo mal;Luis Gutierrez;22/06/2015 15:36;Efrain Lopez R;Errores Del Sistema;Configuración
+ALFREDO;3381;Documentado;(Todas);Poliza Factura otros y Cance factura otros  Reecontabilizar;Luis Gutierrez;25/09/2015 17:09;Omar Morales V;Mantenimiento;Recontabilizar
+ALFREDO;3527;Documentado;(Todas);ALTA DE MOVIMIENTO DIVIDENDO POR PAGAR;Luis Gutierrez;42296,73;Diego Garcia T;Formato;Reporte
+ALFREDO;3539;Documentado;(Todas);Poliza de pago se Prestamo quirografario error;Luis Gutierrez;42299,45332;Efrain Lopez R;Errores Del Sistema;Configuración
+ALFREDO;3584;Documentado;(Todas);Desarrollo para cancelar Complemento (previas,accesorio, tramites etc);Luis Gutierrez;42307,69413;Omar Morales V;Errores Del Sistema;Configuración
+ALFREDO;3944;Documentado;(Todas);Incluir en  reporte  tira previa mensual centro de costo;Luis Gutierrez;42381,52501;Efrain Lopez R;Configuración;Reportes
+ALFREDO;3945;Documentado;(Todas);Bloquear centros de costo no permitidos;Luis Gutierrez;42381,52968;Karen A Castillo J;Configuración;Modificación de Accesos
+ALFREDO;7251;Documentado;(Todas);"Alta de movimiento compra ""Toma seminuevos""";Luis Gutierrez;42828,7381;Luis Gutierrez;Configuración;Movimientos
+ALFREDO;7380;Documentado;(Todas);Validar RFC Cliente;Luis Gutierrez;42860,57773;Luis Gutierrez;Configuración;Otro
+ALFREDO;7544;Documentado;(Todas);Movimiento estadistica no deja afectar nuevos conceptos de comision;Luis Gutierrez;42901,44916;Arturo Vazquez;Errores Del Sistema;Configuración
+ALFREDO;8534;Documentado;FOTAC;solicitud de deposito VV4963, En tesorería aparece como concluida pero tiene un saldo de $4,361 y en CxC aparece como pendiente;Marco Espinosa;43080,58909;Karen A Castillo J;Errores Del Sistema;Operación
+ALFREDO;8342;Documentado;FOTLA;Valida Centavos en aplicaciones;Alma Garcia;43035,68883;Karen A Castillo J;Errores Del Sistema;Configuración
+ALFREDO;1704;Documentado;GALIA Renault;APLICACIón PETIT PAS/SEDRE;Roberto Hieber H;41913,71296;Arturo Candia;Interfaces;Planta
+ALFREDO;2021;Documentado;HYNAU;Reporte Pedido Sugerido no muestra informacion;Sergio Cordero;41990,77971;Arturo Candia;Errores Del Sistema;Liberación
+ALFREDO;1964;Documentado;ISVAL;Compra Activo Fijo IVA en CxP;Miguel A Lomeli;41970,75584;Sergio Cordero;Errores Del Sistema;Configuración
+ALFREDO;7132;Documentado;KIQUE;ERROR EN EL TOTAL DE LA FACTURA;Ma De La Luz Gonzalez G;42804,52718;Hugo Leguizamo R;Errores Del Sistema;Impresión
+ALFREDO;5488;Documentado;HYPED;Cancelar NC;Jesus Sandoval D;43145,51874;Jesus Sandoval D;Configuración;Movimientos
+ALFREDO;7582;Documentado;NICUI;Error al usar movimiento Cambio de presentacion;Hugo Tenorio;20/06/2017 11:18;Hugo Tenorio;Errores Del Sistema;Operación
+ALFREDO;6310;Documentado;NICUI;Modificar herramienta Placas Tenencia;Xochitl Zurita;12/11/2016 12:11;Xochitl Zurita;Configuración;Movimientos
+ALFREDO;7655;Documentado;KIQUE;Error al cancelar Intercambio;David Venegas D;30/06/2017 19:58;David Venegas D;Errores Del Sistema;
+ALFREDO;7957;Documentar;KIQUE;Sirena ;Karen A Castillo J;17/08/2017 12:24;Karen A Castillo J;Implantación;Nuevo Desarrollo
+ALFREDO;8974;Documentar;MACHU;Problema para afectar ;Israel Medina A;10/02/2018 12:19;Israel Medina A;Errores Del Sistema;Configuración
+ALFREDO;9047;Documentar;MACHU;Cancelacion de Ordenes;Israel Medina A;20/02/2018 9:14;Mercedes Aguilar CH;Errores Del Sistema;Configuración
+ALFREDO;7236;Documentar;NIVIL;Error al bajar reportes cartera anual;Luis Gutierrez;31/03/2017 11:33;Omar Morales V;Errores Del Sistema;
+ALFREDO;8353;Por Validar;FOTAC;Cancelar el Endoso de una Compra de Autos Nuevos y que sigue en estatus Pendiente;Efrain Lopez R;30/10/2017 17:21;Aarón Gómez S.;Errores Del Sistema;Configuración
+ALFREDO;7993;Por Validar;(Todas);Al cancelar facturas de otro mes  ya no timbrar NC Mejor cancelar el xml de la factura de origen;Luis Gutierrez;24/08/2017 12:09;Arturo Vazquez;Configuración;Reportes
+ALFREDO;2160;Por Validar;NICUI;Cargar piezas en automatico desde la Orden de Servicio;Hugo Tenorio;04/02/2015 13:57;Hugo Tenorio;Errores Del Sistema;
+ALFREDO;8126;Por Validar;NICUI;Errores en candado XML;Hugo Tenorio;19/09/2017 11:18;Hugo Tenorio;XML;SAT
+ALFREDO;8062;Por Validar;(Todas);VALIDACIÓN DE VIGENCIA DE DOCUMENTOS ANEXOS A CTE;Karen A Castillo J;05/09/2017 18:18;Karen A Castillo J;Implantación;Nuevo Desarrollo
+ALFREDO;8111;Por Validar;(Todas);Candado RFC Incompleto ;Karen A Castillo J;14/09/2017 12:21;Karen A Castillo J;Implantación;Nuevo Desarrollo
+ALFREDO;8577;Por Validar;(Todas);Candado Serie ;Karen A Castillo J;22/12/2017 10:54;Karen A Castillo J;Implantación;Nuevo Desarrollo
+OMAR;7507;Documentado;KIQUE;ALTA USUARIO;Ma De La Luz Gonzalez G;06/06/2017 11:14;Arturo Candia;Configuración;Alta-Baja Usuario
+OMAR;7643;Documentado;KIQUE;Error reporte Vins al Corte;David Venegas D;29/06/2017 12:31;Sergio Cordero;Errores Del Sistema;Otro
+OMAR;7776;Documentado;KIQUE;Modificacion de accesos para gerente de servicio;Antonio A Resendiz V;21/07/2017 10:31;Omar Morales V;Configuración;Modificación de Accesos
+OMAR;8740;Documentado;KIQUE;Permisos a usuarios;David Venegas D;17/01/2018 17:29;Karen A Castillo J;Configuración;Modificación de Accesos
+OMAR;8597;Documentado;KISAT;FROMATO ORDENES DE SERVICIO;Luis A Gonzalez E;28/12/2017 11:11;Karen A Castillo J;Formato;Orden de Servicio
+OMAR;7382;Documentado;MAACA;Descuadre de Balance;Oscar Garcia D;05/05/2017 18:31;Luis Gutierrez;Configuración;Reportes
+OMAR;1698;Documentado;MAOAX;Formato Factura Otros;Manuel Flores D;01/10/2014 9:18;Arturo Vazquez;Formato;Factura
+OMAR;3011;Documentado;MAOAX;FOLIOS DE MOV. TRANSFERENCIA (S) SEA POR SUCURSAL en MAOAX;Manuel Flores D;29/07/2015 10:56;Manuel Flores D;Configuración;Otro
+OMAR;4300;Documentado;MAOAX;REVISION DE sp PARA INSERTAR REGISTROS DE ENTRADA/SALIDA DESDE CHECADORES CHK;Manuel Flores D;15/02/2016 10:09;Manuel Flores D;Errores Del Sistema;Otro
+OMAR;5345;Documentado;MAOAX;ACTUALIZACION DE CONTRATOS PROFECO MAOAX;Manuel Flores D;18/06/2016 10:32;Alfredo Jimenez;Formato;Contratos
+OMAR;6329;Documentado;MAOAX;ERROR AL AFECTAR GASTO PRORRATEADO;Manuel Flores D;15/11/2016 17:43;Arturo Vazquez;Errores Del Sistema;Operación
+OMAR;7214;Documentado;MAOAX;SISTEMA NO GENERA PDF EN FACTURAS DE SERVICIO;Manuel Flores D;28/03/2017 16:51;Arturo Candia;Formato;Otro
+OMAR;7373;Documentado;MAOAX;INTEGRAR COMPLEMENTO INE AL PROCESO DE VENTA;Manuel Flores D;04/05/2017 10:35;Alfredo Jimenez;Configuración;Movimientos
+OMAR;7827;Documentado;MAOAX;SISTEMA LIGA CFDI A MOVIMIENTOS QUE NO LE CORRESPONDEN;Manuel Flores D;27/07/2017 18:52;Alfredo Jimenez;Errores Del Sistema;Liberación
+OMAR;7859;Documentado;MAOAX;SITUACIONES EN VIN (permite dar unidad salio sin documentos), BANDERA DE SITUACION NO SE INHABILITA;Manuel Flores D;01/08/2017 9:59;Alfredo Jimenez;Implantación;Otro
+OMAR;8009;Documentado;MAOAX;ENVIO DE FACTURACION FILIALES;Manuel Flores D;26/08/2017 10:25;Omar Morales V;Configuración;Otro
+OMAR;7259;Documentar;(Todas);Depreciacion no hereda centro de costos en modulo de gastos;Luis Gutierrez;04/04/2017 12:08;Arturo Vazquez;Configuración;Reportes
+OMAR;7305;Documentar;(Todas);Bloquear edicion del beneficiario en tesoreria;Luis Gutierrez;19/04/2017 13:26;Omar Morales V;Configuración;Movimientos
+OMAR;7394;Documentar;(Todas);CANCELAR INCENTIVOS PLANTA;Luis Gutierrez;09/05/2017 14:17;Omar Morales V;Errores Del Sistema;Configuración
+OMAR;7714;Documentar;(Todas);Concepto en recompra no corta el historial del vin;Luis Gutierrez;12/07/2017 10:41;Omar Valles;Configuración;Movimientos
+OMAR;7922;Documentar;(Todas);Concepto re compra no respeta  el cortar el historial den vin;Luis Gutierrez;09/08/2017 17:03;Arturo Vazquez;Errores Del Sistema;Liberación
+OMAR;8176;Documentar;(Todas);Carga bach para subir numeros de cuenta de proveedores;Luis Gutierrez;28/09/2017 10:22;David Venegas D;Implantación;Nuevo Desarrollo
+OMAR;8695;Documentar;AUSAT;Apoyo para generacion de dos facturas aseguradora;Abner Mendez;12/01/2018 21:20;Mercedes Aguilar CH;XML;Otro
+OMAR;8653;Documentar;FOTLA;CENTRO DE COSTOS;Alma Garcia;10/01/2018 16:48;Alma Garcia;Errores Del Sistema;Configuración
+OMAR;8654;Documentar;FOTLA;Limite de Efectivo Cliente;Alma Garcia;10/01/2018 17:03;Alma Garcia;Configuración;Movimientos
+OMAR;8867;Documentar;FOTLA;Error al Afectar una Factura;Alma Garcia;30/01/2018 10:39;Alma Garcia;Errores Del Sistema;Liberación
+OMAR;8521;Documentar;HOSAN;por favor montar la base  de datos de ayer;Marco A Varela R;08/12/2017 13:45;Marco A Varela R;Mantenimiento;Base de Datos
+OMAR;8573;Documentar;HOSAN;no sindica el cliente que se refacture por que falta algo en el xml​;Marco A Varela R;21/12/2017 15:21;Karen A Castillo J;XML;Otro
+OMAR;9003;Documentar;HYNAU;Formula pedido sugerido ;Gisela M Moreno C;14/02/2018 18:44;Gisela M Moreno C;Configuración;Movimientos
+OMAR;8882;Documentar;KISAT;FORMATO DE ORDENES DE SERVICIO;Luis A Gonzalez E;31/01/2018 13:59;Omar Morales V;Formato;Orden de Servicio
+OMAR;8607;Documentar;HYPED;Pago erroneo;Jesus Sandoval D;29/12/2017 9:05;Jesus Sandoval D;Configuración;Movimientos
+OMAR;7248;Por Validar;(Todas);Movimiento Provision gasto y cance prov gasto;Luis Gutierrez;03/04/2017 12:58;Omar Morales V;Configuración;Otro
+OMAR;7338;Por Validar;(Todas);diferentes ivas entre la poliza y el movimiento;Xochitl Zurita;24/04/2017 18:16;Omar Morales V;Implantación;Nuevo Desarrollo
+OMAR;7999;Por Validar;(Todas);Duplicidad en timbtrado de facturas;Luis Gutierrez;25/08/2017 12:38;Omar Morales V;Configuración;Otro
+OMAR;8054;Por Validar;(Todas);Reconfiguracion de Poliza Para Compras para Contabilida Electronica;Omar Morales V;04/09/2017 14:07;Omar Morales V;Mantenimiento;Recontabilizar
+OMAR;8072;Por Validar;(Todas);Envío de PDF y XML en automático;Karen A Castillo J;07/09/2017 11:58;Omar Morales V;Implantación;Nuevo Desarrollo
+OMAR;8311;Por Validar;(Todas);Reconfiguración de pólizas de garantía.;Mercedes Aguilar CH;23/10/2017 13:55;Omar Morales V;Configuración;Polizas
+OMAR;8372;Por Validar;(Todas);Bloqueo proveedor-ciente.;Mercedes Aguilar CH;04/11/2017 10:53;Omar Morales V;Configuración;Otro
+OMAR;8519;Por Validar;(Todas);Bonificacion No Permite  Concluir Sin  Referencia ( Copiar de Otro Movimiento);Omar Morales V;08/12/2017 11:06;Omar Morales V;Mantenimiento;Especiales
+OMAR;8922;Por Validar;(Todas);Cobro Sin Timbrar;Mercedes Aguilar CH;06/02/2018 16:38;Omar Morales V;Configuración;Otro
+OMAR;7956;Por Validar;KISAT;Realizar  XML para interfaces CVIS;Karen A Castillo J;17/08/2017 11:51;Omar Morales V;Implantación;Nuevo Desarrollo
